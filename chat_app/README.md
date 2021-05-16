@@ -1,4 +1,4 @@
-# chat_app
+# Blog App
 
 ## Project setup
 ```
